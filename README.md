@@ -4,7 +4,7 @@
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
 ## Contents
-- [Awesome-Object-Detection-and-Recognition-Datasets](#awesome-object-detection-and-recognition-datasets)
+- [Awesome-Object-Detection-Datasets](#awesome-object-detection-datasets)
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
     - [Datasets Share Platform](#datasets-share-platform)
@@ -21,6 +21,7 @@
     - [License Plate Detection and Recognition Datasets](#license-plate-detection-and-recognition-datasets)
   - [Adverse Weather Datasets](#adverse-weather-datasets)
   - [Person Detection Datasets](#person-detection-datasets)
+  - [Anti-UAV Datasets](#anti-uav-datasets)
   - [Optical Aerial Imagery Datasets](#optical-aerial-imagery-datasets)
   - [Low-light Image Datasets](#low-light-image-datasets)
   - [Infrared Image Datasets](#infrared-image-datasets)
@@ -221,7 +222,11 @@
   - [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
 
 
+## Anti-UAV Datasets
 
+  - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+
+  
 
 ## Optical Aerial Imagery Datasets
 
